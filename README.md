@@ -1,8 +1,4 @@
 # linkedin-tech-content
-<<<<<<< HEAD
-
-This repository contains organized tech content folders for Data Engineering, Oracle, Python, ML, AI, Generative AI, Data Analytics, and more.
-=======
 # 👋 Welcome to My Technical Content Hub
 
 <div align="center">
