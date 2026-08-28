@@ -1,5 +1,4 @@
-# linkedin-tech-content
-# 👋 Welcome to My Technical Content Hub
+
 
 <div align="center">
 
